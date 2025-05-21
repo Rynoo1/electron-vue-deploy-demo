@@ -2,9 +2,9 @@
 import { ref, onMounted } from 'vue'
 
 const selectedImage = ref('https://picsum.photos/1600/900')
-const MessageTo = ref('3rd-years')
+const MessageTo = ref('Team 6')
 const Message = ref('May you always create bugs no one else can fix.')
-const MessageFrom = ref('Armand')
+const MessageFrom = ref('Ryno')
 
 </script>
 
